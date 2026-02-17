@@ -1,0 +1,12 @@
+import React from 'react'
+import { useParams } from 'react-router'
+
+export default function About() {
+    
+
+    return (
+        <div>
+            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Culpa, ratione aliquam quis ut laudantium porro dignissimos magni repellat facilis, quibusdam exercitationem omnis? Aperiam, sequi? Voluptate, earum odit? Cum non autem optio reiciendis! Repudiandae, nisi commodi maxime quo officia fugit unde illum? Neque, totam voluptas qui facere repellendus cum exercitationem sapiente, accusamus ducimus soluta adipisci. Qui veniam dignissimos, rerum nostrum distinctio quaerat nam eligendi velit atque repellendus, mollitia facilis minima magnam minus, laborum optio fugit hic itaque earum quos libero? Obcaecati ratione natus reprehenderit ipsa aliquam dolor, iure assumenda quo tempora delectus numquam nesciunt nihil, cumque rem perferendis. Molestias iure sint modi minus iste mollitia corrupti expedita neque! Animi quod suscipit in corporis quibusdam nemo repellendus aliquam culpa sapiente! Veritatis voluptates provident, atque culpa dolorem voluptas laborum doloremque. Eligendi modi velit doloremque, deserunt numquam minus ad, laudantium adipisci nesciunt eos minima distinctio, dolorem neque magnam? Voluptatum tempora error corporis dicta ipsum velit corrupti explicabo asperiores dolorem, iusto debitis laudantium, soluta fugiat veniam aut maxime placeat aliquid facilis natus? Asperiores, reiciendis. Alias aliquid in obcaecati ut veritatis eum culpa, maiores sapiente vel, excepturi, aspernatur eligendi laboriosam maxime delectus temporibus libero similique repudiandae blanditiis harum. Aperiam fugiat nobis repellat sapiente, rerum facilis et reprehenderit delectus laudantium impedit. Rerum, culpa? Explicabo, sed dolorem. Dolore deserunt ipsam veniam aliquam, recusandae corrupti maiores, repellat non laborum aspernatur iure nihil omnis facilis officia debitis eius dolorem unde molestias quam optio explicabo, voluptatum deleniti? Eaque inventore alias delectus impedit, ratione cumque vitae voluptate. Iure, aliquid ducimus, et fugiat qui repellat natus, alias atque excepturi magnam voluptates. Voluptatibus earum iste deserunt atque animi quam id ex obcaecati voluptates necessitatibus cumque dolore magni ea dolorem harum vel nihil, fuga velit optio aspernatur ipsa. Corrupti aliquid beatae quisquam, qui iusto inventore tempora, repellat aperiam dolorum illum velit porro nobis minus. Maiores.
+        </div>
+    )
+}
