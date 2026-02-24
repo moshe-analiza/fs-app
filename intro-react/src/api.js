@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:3003";
+const API_URL = import.meta.env.VITE_API_CAT || "http://localhost:3003";
 export async function login(username, pass) {
     try {
         const res = await fetch(API_URL + "/auth/login", {
